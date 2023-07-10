@@ -1,1 +1,30 @@
 /* Write your CSS here! */
+body {
+    background-color: black;
+}
+
+header {
+    color: white;
+    font-size: 20px;
+}
+
+.section-1 {
+    color: yellow;
+    font-size: 20px;
+
+}
+
+.section-2 {
+    color: red;
+    font-size: 20px;
+}
+
+.section-3 {
+    color: violet;
+    font-size: 20px;
+}
+
+.section-4 {
+    color: blue;
+    font-size: 20px;
+}
