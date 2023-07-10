@@ -28,3 +28,8 @@ header {
     color: blue;
     font-size: 20px;
 }
+
+.footer {
+    color: white;
+    justify-content: center;
+}
