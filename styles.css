@@ -4,7 +4,7 @@ body {
     margin: 8px;
 }
 
-header {
+Header {
     color: white;
     font-size: 20px;
 }
@@ -109,7 +109,7 @@ figcaption {
     width: 400px;
 }
 
-.footer {
+.Footer {
     color: white;
     text-align: center;
 }
