@@ -54,6 +54,13 @@ figcaption {
     text-align: center;
 }
 
+#bigpic {
+    max-width: 100%;
+    max-height: 100vh;
+    width: auto;
+    margin: auto;
+}
+
 .section-1 {
     color: yellow;
     font-size: 20px;
